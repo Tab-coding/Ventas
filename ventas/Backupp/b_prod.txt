@@ -1,0 +1,10 @@
+    l001,Harry Potter y el Misterio del principe,J. K. Rowling,Salamandra,2022,Español,Fantasía,Tapa Dura,100,12500
+    l002,Tan Poca Vida,Hanya Yanagihara,Lumen Press,2016,Español,Ficción Moderna y Contemporánea,Tapa Blanda,200,27040
+    l003,Alas de Hierro,Rebecca Yarros,Editorial Planeta,2024,Español,Fantasía Romántica,Tapa Blanda,68,17490
+    l004,El Secreto de la Asistenta,Freida McFadden,SUMA,2024,Español,Ficción Literaria,Tapa Blanda,68,17490
+    l005,Una Corte de Rosas y Espinas,Sarah J. Maas,Crossbooks,2024,Español,Ficción,Tapa Dura,70,26940
+    l006,La Teoria del Amor,Ali Hazelwood,Contraluz,-,Español,Literatura Juvenil,Tapa Blanda,10,16240
+    l007,Lascivia,Eva Muñoz,Montena,2022,Español,Ficción Erótica,Tapa Blanda,1,19130
+    l008,Never lie,Freida McFadden,Dorling Kindersley Ltd.,-,Inglés,-,Tapa Blanda,3,15740
+    l009,Los Siete Maridos de Evelyn Hugo,Taylor Jenkins Reid,Umbriel Editores,2017,Español,Ficción Histórica,Tapa Blanda,70,12290
+    l010,Las Claves Secretas de Shakespeare,Carlos Basso",Penguin Random",2024,Español,THRILLER,Tapa Blanda,30,11700
